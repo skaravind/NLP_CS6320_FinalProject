@@ -6,6 +6,13 @@ SXA190006@utdallas.edu
 
 ### Programming language used : Python
 
-### NLP libraries used : NLTK, Keras, TF, SKlearn
+### NLP libraries used : 
+NLTK, Keras, TF, SKlearn
 
-The .ipynb iPython file contains all the analysis scripts written for the project.
+The SXA190006_NLP_EC.ipynb file contains all the code written for the project.
+
+Model used: LSTM with Spatial Dropout
+Feature: Dense word embeddings from Tokenized text.
+
+### Test Accuracy: 
+74.9% 
