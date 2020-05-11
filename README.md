@@ -1,2 +1,11 @@
-# NLP_CS6320_FinalProject
-Extra Credit part of the Final project of NLP CS6320 at UTD.
+# NLP CS6320 Final Project
+
+## Submitted by
+S K Aravind
+SXA190006@utdallas.edu
+
+### Programming language used : Python
+
+### NLP libraries used : NLTK, Keras, TF, SKlearn
+
+The .ipynb iPython file contains all the analysis scripts written for the project.
